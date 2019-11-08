@@ -9,6 +9,8 @@
 - addr2line -e soplex_base.amd64-m64-gcc42-nn
 
 irregular benchmarks: soplex, omnetpp, sphinx3, xalancbmk, astar
-regular benchmarks: lbm, leslie3d？
+regular benchmarks: lbm, (leslie3d?)
 
-3. 
+3. Generate trace
+
+4. dump out training data and correspond to code
